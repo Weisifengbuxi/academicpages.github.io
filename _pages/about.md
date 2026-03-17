@@ -55,7 +55,7 @@ Git/Gitea 版本控制、个人博客平台全栈运维
 
 📌 个人博客系统构建
 
-[未似风不息](https://www.weisifengbuxi.top/)
+- [未似风不息](https://www.weisifengbuxi.top/)
 
 - 独立评论系统
 
