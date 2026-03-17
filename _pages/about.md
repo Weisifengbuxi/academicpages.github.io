@@ -8,27 +8,42 @@ redirect_from:
 ---
 
 所在地: 山西太原，中国
-身份: 计算机科学与技术专业 大二
+
+专业: 计算机科学与技术 大二
+
 开发经验: 3+ 年
 
 ======
 
 💻 核心编程语言
+
 Python、Java、C、C++、JavaScript/TypeScript、Node.js
-Getting started
+
 🌐 Web 全栈开发
+
 HTML/CSS、Vue.js、FastAPI、Flask、Node.js、Nginx、MySQL、Markdown 渲染、前后端分离架构
+
 🎨 设计与多媒体
+
 Photoshop (PS) 视觉设计、Premiere (PR) 视频剪辑与后期、UI/UX 界面设计、视频 / 图像素材处理
+
 📚 项目管理与协作
+
 Git/Gitea 版本控制、个人博客平台全栈运维
 
 ======
+
 🌟 Highlighted Projects
+
 📌 高校招生办网站 AI 助手（RAG 项目）
+模型: Qwen3-8B/14B（可自由选择） + Qwen3-Embedding 集成为一个API
+
 前端: vue3 + typescript + Vite
+
 后端: Node.js + Express
+
 数据存储: MySQL
+
 核心功能:
 - AI 对话：接入外部 RAG API，支持上下文感知的多轮对话
 - 流式输出：基于 SSE/ReadableStream，AI 回复逐字实时渲染
@@ -39,18 +54,19 @@ Git/Gitea 版本控制、个人博客平台全栈运维
 - 设置页：可动态配置 API 地址、模型选择、流式输出开关
 
 📌 个人博客系统构建
-[博客](https://www.weisifengbuxi.top/)
-独立评论系统
-hexo架构
-超10篇原创文章
-已备案上线
+[未似风不息](https://www.weisifengbuxi.top/)
+
+- 独立评论系统
+
+- hexo架构
+
+- 超10篇原创文章
+
+- 已备案上线
 
 ------
 🏆 Achievements
+
 2025年获国赛省二等奖
+
 2026年美赛（成绩没出）
-
-For more info
-------
-
-
